@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Исключить файл конфигурации с токеном
+appleapplication.properties
+
